@@ -12,8 +12,8 @@ body {
 }
 
 main {
-  margin: 3rem auto;
-  padding: 3rem 1rem;
+  margin: 50px auto;
+  padding: 40px 20px;
   max-width: 1280px;
   background-color: #FFF6EC;
   border-radius: 5px;
@@ -39,8 +39,8 @@ ul {
 }
 
 .portrait {
-  margin: 1.5rem 0;
-  padding: 1rem;
+  margin: 20px 0;
+  padding: 20px;
   background-color: #FFF;
   border-radius: 5px;
 }
@@ -53,11 +53,11 @@ ul {
 }
 
 .portrait > figcaption {
-  margin-top: 1rem;
+  margin-top: 20px;
 }
 
 .tribute-info {
-  margin: 3rem auto 1.5rem;
+  margin: 60px auto 20px;
   max-width: 800px;
   overflow: hidden;
 }
@@ -77,15 +77,15 @@ ul {
   width: 30%;
   max-width: 200px;
   min-width: 100px;
-  margin-left: 2rem;
+  margin-left: 30px;
 }
 
 .gallery figure {
-  margin-bottom: 2rem;
+  margin-bottom: 40px;
 }
 
 .gallery figcaption {
-  margin: 0.5rem 0;
+  margin: 15px 0;
   text-align: center;
 }
 
